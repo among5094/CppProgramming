@@ -1,0 +1,4 @@
+﻿  ex1.cpp
+C:\Users\HYEMIN ROH\source\repos\4week\ex1.cpp(14,3): error C2248: 'C::x': private 멤버('C' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\HYEMIN ROH\source\repos\4week\ex1.cpp(8): message : 'C::x' 선언을 참조하십시오.
+C:\Users\HYEMIN ROH\source\repos\4week\ex1.cpp(7): message : 'C' 선언을 참조하십시오.
